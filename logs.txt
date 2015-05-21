@@ -1,0 +1,5 @@
+{"date":"2015-05-21T13:30:29.3322285+01:00","level":"INFO","appname":"log4net_json.vshost.exe","logger":"log4net_json.Program","thread":"9","ndc":"(null)","message":{"Body":"Hello!"}}
+{"date":"2015-05-21T13:30:29.3782331+01:00","level":"ERROR","appname":"log4net_json.vshost.exe","logger":"log4net_json.Program","thread":"9","ndc":"(null)","message":{"ErrorMessage":"Something went wrong!"}}
+{"date":"2015-05-21T13:30:29.3782331+01:00","level":"DEBUG","appname":"log4net_json.vshost.exe","logger":"log4net_json.Program","thread":"9","ndc":"(null)","message":{"Key":"Hey","Value":"You?"}}
+{"date":"2015-05-21T13:30:29.3882341+01:00","level":"ERROR","appname":"log4net_json.vshost.exe","logger":"log4net_json.Program","thread":"9","ndc":"(null)","exception":"System.Exception: Something went REALLY wrong!\r\n   at log4net_json.Program.Main() in c:\\dev\\Dave\\log4net_json\\log4net_json\\log4net_json\\Program.cs:line 23","message":{"Problem":"Exception"}}
+{"date":"2015-05-21T13:30:29.3912344+01:00","level":"INFO","appname":"log4net_json.vshost.exe","logger":"log4net_json.Program","thread":"9","ndc":"(null)","message":{"Pigs":"Pink","Simpsons":"Yellow"}}
